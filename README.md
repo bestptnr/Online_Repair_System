@@ -9,8 +9,8 @@ Project for pre-cooperative exams Online repair system Frontend User is a mobile
 </div>
 <h1>Admin Screen</h1>
 <div>
-  <img src="https://github.com/bestptnr/Online_Repair_System/assets/73695646/336786bd-9cdd-40da-84a3-c1cd0bad3631" width="200" height="100%">
-    <img src="https://github.com/bestptnr/Online_Repair_System/assets/73695646/e07e3cd8-1a2f-4202-ba0a-237382d149a2" width="200" height"=100%">
+  <img src="https://github.com/bestptnr/Online_Repair_System/assets/73695646/336786bd-9cdd-40da-84a3-c1cd0bad3631" width="500" height="100%">
+    <img src="https://github.com/bestptnr/Online_Repair_System/assets/73695646/e07e3cd8-1a2f-4202-ba0a-237382d149a2" width="500" height"=100%">
 
 
 </div>
