@@ -1,0 +1,26 @@
+.box-center{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    flex-wrap: wrap;
+}
+.btn{
+    background-color: #0F75BC;
+    color: #FFFFFF;
+}
+.box{
+    width: 50%;
+}
+.error{
+    color: red;
+}
+@media screen and (max-width:1023px) {
+    .box{
+     
+        width: 80%;
+    }
+  
+}
